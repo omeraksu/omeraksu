@@ -1,5 +1,4 @@
 ### Hi there, I'm Ömer.
 
-- 🔭 I’m currently working on blockchain, AI & design.
-- 🌱 I’m currently learning math, computer sience.
+- 🔭 I’m currently working on blockchain, AI, design.
 - 📫 How to reach me: [omer.studio](https://omer.studio)
